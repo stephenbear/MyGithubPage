@@ -29,8 +29,7 @@ html, body{
     height: 500px;
     background: rgba(187, 236, 234, 0.2);
     margin-left: 50%;
-    margin-top: 50%;
     left: -250px;
-    top:-250px;
+    top: 200px;
     border-radius: 50%;
 }
